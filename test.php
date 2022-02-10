@@ -6,3 +6,4 @@
  */
 echo 'hi hi hi';
 echo 'yuri hiiiii';
+exit();

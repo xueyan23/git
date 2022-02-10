@@ -14,3 +14,8 @@ function out(string $msg){
     echo $msg; 
 }
 
+function add(int $aa,int $bb){
+    echo $aa + $bb; 
+}
+
+add(1,1);
